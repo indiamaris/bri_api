@@ -1,0 +1,31 @@
+{
+	"Books": {
+		"1": {
+			"id": 1,
+			"title": " Senhor dos Anéis",
+			"subtitle": "A Sociedade do Anel",
+			"quote": "Muitos que vivem merecem a morte. E alguns que morrem merecem viver. Você pode dar-lhes a vida?"
+		},
+
+		"2": {
+			"id": 2,
+			"title": " Senhor dos Anéis",
+			"subtitle": "A Sociedade do Anel",
+			"quote": "Tudo o que temos de decidir é o que fazer com o tempo que nos é dado."
+		},
+
+		"3": {
+			"id": 3,
+			"title": " Senhor dos Anéis",
+			"subtitle": "O Retorno do Rei",
+			"quote": "Não vou pedir que não chorem, pois nem todas as lagrimas são um mal."
+		},
+		"4": {
+			"id": 4,
+			"title": " Senhor dos Anéis",
+			"subtitle": "O Retorno do Rei",
+			"quote": "A jornada não acaba aqui. A morte é apenas um outro caminho... que todos temos que tomar"
+		}
+	}
+}
+
